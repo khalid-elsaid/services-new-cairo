@@ -1,0 +1,7 @@
+https://khalid-elsaid.maps.arcgis.com/apps/instant/basic/index.html?appid=955fa2ecafc64e9ab001c8f2fa87330b
+
+
+
+
+<iframe src="https://khalid-elsaid.maps.arcgis.com/apps/instant/basic/index.html?appid=955fa2ecafc64e9ab001c8f2fa87330b" 
+width="400" height="600" frameborder="0" style="border:0" allowfullscreen> iFrames </iframe>

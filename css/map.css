@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+.mynav {
+    height: 10vh;
+    width: 100%;
+    background-color:#f1f1f1;
+    text-align: center;
+}
+
+.thelist {
+    height: 100%;
+    list-style-type: none;
+    display: flex;
+   justify-content: flex-end;
+   margin-right: 1rem;
+
+}
+
+
+      
+.item {
+    padding: 15px;
+    padding-left: 10px; 
+    margin-right: 2rem;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.item:hover {
+    background-color: #d8d7d7;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 1rem;
+} 
+
+/* START ARCGIS ONLINE SECTION  */
+
+
+
+.map {
+    height: calc(100vh - 10vh);
+    width: 100%;
+}
+
+/* START ARCGIS ONLINE SECTION  */
